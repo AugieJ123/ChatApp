@@ -1,0 +1,42 @@
+install.sh
+run install.sh
+./install.sh
+/Applications/Polyspace/R2019a/bin/matlab ; exit;
+/Applications/Polyspace/R2019a/bin/matlab ; exit;
+/Applications/Polyspace/R2019a/bin/matlab ; exit;
+/Applications/Polyspace/R2019a/bin/matlab ; exit;
+python --version
+/usr/bin/python "/Users/gracekoroma/Documents/Python Stuff/mete.py"
+`chsh -s /bin/zsh
+SHARONK
+/usr/bin/python "/Users/gracekoroma/Documents/Python Stuff/mete.py"
+/Applications/Python\ 3.8/Update\ Shell\ Profile.command ; exit;
+/Applications/Python\ 3.8/Install\ Certificates.command ; exit;
+python --version
+$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install python
+SHARONK
+python --version
+/usr/bin/python "/Users/gracekoroma/Documents/Python Stuff/mete.py"
+/usr/bin/python "/Users/gracekoroma/Documents/Python Stuff/mete.py"
+/Library/Frameworks/Python.framework/Versions/3.8/bin/python3 "/Users/gracekoroma/Documents/Python Stuff/mete.py"
+/usr/bin/python3 "/Users/gracekoroma/Documents/Python Stuff/mete.py"
+pip install scipy
+/usr/bin/python3 "/Users/gracekoroma/Documents/Python Stuff/mete.py"
+chsh -s /bin/zsh
+pip install scipy
+python3 install scipy
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew --version
+brew install python
+python --version
+ls -l /usr/local/bin/python*
+ln -s -f /usr/local/bin/python3.8 /usr/local/bin/python
+python --version
+clear
+exit
